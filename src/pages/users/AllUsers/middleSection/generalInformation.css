@@ -1,0 +1,37 @@
+.main {
+    margin: 20px 0 0 20px;
+    width: 95%;
+}
+
+.generalTitle {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.generalSubtitle{
+    width: 33%;
+    color: #FFF;
+    height: fit-content;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.generalContent{
+    width: 33%;
+    color: #A0A0A0;
+    height: fit-content;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

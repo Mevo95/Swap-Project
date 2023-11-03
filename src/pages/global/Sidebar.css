@@ -1,0 +1,70 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Source+Sans+3:wght@400;600;700&display=swap');
+
+
+.swapIcon {width: 150px;
+      height: 100px;
+      flex-shrink: 0;
+      padding: 30px 0px 40px 28px;}      
+
+.dashboardText{
+    color: '#9A9A9A';
+    font-size: 12;
+    font-family: Montserrat;
+    font-weight: 600;
+    word-wrap: break-word;
+    display: inline;
+    margin-left: 24px;
+    position: relative;
+    top: -3px;
+}
+
+.Tab{
+  margin-bottom: 19px;
+}
+.Tab:hover {
+  border-left: 2px solid blue !important;
+  cursor: pointer !important;
+  color: azure !important;
+}
+
+.Icon{
+  width: 18px;
+  height: 18px;
+  margin: 0px 0px 0px 24px;
+}
+
+.Text{
+  color: #9A9A9A;
+  font-size: 12px;
+  font-family: Montserrat;
+  font-weight: 600;
+  word-wrap: break-word;
+  display: inline;
+  margin-left: 20px;
+  position: relative;
+}
+
+.globalSettings{
+  margin-top: 180px;
+  margin-bottom: 30px;
+}
+
+.globalIcon{  
+  height: 16px;
+  width: 16px;
+  margin: 0px 0px 0px 18px ;}
+
+.footer{
+  display: flex;
+  margin-left: 10px;
+  margin-right: 15px;
+  opacity: 0.7;
+  width: auto;
+}
+
+.sidebar-item.active {
+  border-left: 2px solid blue !important;
+  cursor: pointer !important;
+  color: azure !important;
+}

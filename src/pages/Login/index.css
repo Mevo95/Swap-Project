@@ -1,0 +1,55 @@
+.Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    color:#9A9A9A;
+  }
+  
+  .Auth-form {
+    width: 420px;
+    box-shadow: darkgrey 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    background-color: #121212;
+    color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .Auth-form-title {
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 30px;
+    align-items: center;
+    font-weight: 800;
+    font-family: Montserrat;
+    color: #9A9A9A;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+.loginForm{
+  display: flex;
+  height: 100%;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
+
+.loginTitle{
+  display: flex;
+  justify-content: center;
+  padding-right: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}

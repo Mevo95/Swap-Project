@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Source+Sans+3:wght@400;600;700&display=swap');
+.header{
+    margin-top: 85px;
+    margin-left: 20px;
+    width: 560px;
+    height: fit-content;
+}
+
+.title{
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 5px;
+    letter-spacing: 1.5px;
+}
+
